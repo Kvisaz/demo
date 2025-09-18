@@ -1,0 +1,271 @@
+{
+	"textures": [
+		{
+			"image": "figure.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1236,
+				"h": 1308
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fig.club.j.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 305,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 305,
+						"h": 432
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 305,
+						"h": 432
+					}
+				},
+				{
+					"filename": "fig.club.k.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 305,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 305,
+						"h": 432
+					},
+					"frame": {
+						"x": 311,
+						"y": 2,
+						"w": 305,
+						"h": 432
+					}
+				},
+				{
+					"filename": "fig.club.q.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 305,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 305,
+						"h": 432
+					},
+					"frame": {
+						"x": 2,
+						"y": 438,
+						"w": 305,
+						"h": 432
+					}
+				},
+				{
+					"filename": "fig.diamond.j.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 305,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 305,
+						"h": 432
+					},
+					"frame": {
+						"x": 311,
+						"y": 438,
+						"w": 305,
+						"h": 432
+					}
+				},
+				{
+					"filename": "fig.diamond.k.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 305,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 305,
+						"h": 432
+					},
+					"frame": {
+						"x": 620,
+						"y": 2,
+						"w": 305,
+						"h": 432
+					}
+				},
+				{
+					"filename": "fig.diamond.q.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 305,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 305,
+						"h": 432
+					},
+					"frame": {
+						"x": 620,
+						"y": 438,
+						"w": 305,
+						"h": 432
+					}
+				},
+				{
+					"filename": "fig.heart.j.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 305,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 305,
+						"h": 432
+					},
+					"frame": {
+						"x": 2,
+						"y": 874,
+						"w": 305,
+						"h": 432
+					}
+				},
+				{
+					"filename": "fig.heart.k.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 305,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 305,
+						"h": 432
+					},
+					"frame": {
+						"x": 311,
+						"y": 874,
+						"w": 305,
+						"h": 432
+					}
+				},
+				{
+					"filename": "fig.heart.q.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 305,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 305,
+						"h": 432
+					},
+					"frame": {
+						"x": 620,
+						"y": 874,
+						"w": 305,
+						"h": 432
+					}
+				},
+				{
+					"filename": "fig.spade.j.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 305,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 305,
+						"h": 432
+					},
+					"frame": {
+						"x": 929,
+						"y": 2,
+						"w": 305,
+						"h": 432
+					}
+				},
+				{
+					"filename": "fig.spade.k.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 305,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 305,
+						"h": 432
+					},
+					"frame": {
+						"x": 929,
+						"y": 438,
+						"w": 305,
+						"h": 432
+					}
+				},
+				{
+					"filename": "fig.spade.q.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 305,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 305,
+						"h": 432
+					},
+					"frame": {
+						"x": 929,
+						"y": 874,
+						"w": 305,
+						"h": 432
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://github.com/odrick/free-tex-packer-core",
+		"version": "0.3.4"
+	}
+}

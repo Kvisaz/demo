@@ -1,0 +1,313 @@
+{
+	"textures": [
+		{
+			"image": "card.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 611,
+				"h": 802
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "card.body.bg.white.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 203,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 203,
+						"h": 288
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 203,
+						"h": 288
+					}
+				},
+				{
+					"filename": "card.body.gray.black.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 203,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 203,
+						"h": 288
+					},
+					"frame": {
+						"x": 209,
+						"y": 2,
+						"w": 203,
+						"h": 288
+					}
+				},
+				{
+					"filename": "card.body.gray.light.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 203,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 203,
+						"h": 288
+					},
+					"frame": {
+						"x": 2,
+						"y": 294,
+						"w": 203,
+						"h": 288
+					}
+				},
+				{
+					"filename": "card.body.gray.mid.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 203,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 203,
+						"h": 288
+					},
+					"frame": {
+						"x": 209,
+						"y": 294,
+						"w": 203,
+						"h": 288
+					}
+				},
+				{
+					"filename": "card.back.ornamental.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 193,
+						"h": 281
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 193,
+						"h": 281
+					},
+					"frame": {
+						"x": 416,
+						"y": 2,
+						"w": 193,
+						"h": 281
+					}
+				},
+				{
+					"filename": "icon.paw.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 220,
+						"h": 214
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 220,
+						"h": 214
+					},
+					"frame": {
+						"x": 2,
+						"y": 586,
+						"w": 220,
+						"h": 214
+					}
+				},
+				{
+					"filename": "suit.diamond.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 50
+					},
+					"frame": {
+						"x": 416,
+						"y": 287,
+						"w": 40,
+						"h": 50
+					}
+				},
+				{
+					"filename": "suit.club.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 45,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 45,
+						"h": 48
+					},
+					"frame": {
+						"x": 460,
+						"y": 287,
+						"w": 45,
+						"h": 48
+					}
+				},
+				{
+					"filename": "suit.spade.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 48
+					},
+					"frame": {
+						"x": 509,
+						"y": 287,
+						"w": 40,
+						"h": 48
+					}
+				},
+				{
+					"filename": "suit.heart.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 44,
+						"h": 44
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 44
+					},
+					"frame": {
+						"x": 553,
+						"y": 287,
+						"w": 44,
+						"h": 44
+					}
+				},
+				{
+					"filename": "suit.diamond.corner.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 25
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 25
+					},
+					"frame": {
+						"x": 553,
+						"y": 335,
+						"w": 20,
+						"h": 25
+					}
+				},
+				{
+					"filename": "suit.club.corner.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 23,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 23,
+						"h": 24
+					},
+					"frame": {
+						"x": 577,
+						"y": 335,
+						"w": 23,
+						"h": 24
+					}
+				},
+				{
+					"filename": "suit.spade.corner.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 24
+					},
+					"frame": {
+						"x": 577,
+						"y": 363,
+						"w": 20,
+						"h": 24
+					}
+				},
+				{
+					"filename": "suit.heart.corner.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 21,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 21,
+						"h": 21
+					},
+					"frame": {
+						"x": 460,
+						"y": 339,
+						"w": 21,
+						"h": 21
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://github.com/odrick/free-tex-packer-core",
+		"version": "0.3.4"
+	}
+}
