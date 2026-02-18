@@ -1,0 +1,40 @@
+{
+	"textures": [
+		{
+			"image": "pauk_01.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 132,
+				"h": 141
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "icon-back-gold.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 137
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 137
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 128,
+						"h": 137
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://github.com/odrick/free-tex-packer-core",
+		"version": "0.3.5"
+	}
+}
