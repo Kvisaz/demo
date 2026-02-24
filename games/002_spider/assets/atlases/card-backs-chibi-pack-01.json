@@ -1,0 +1,255 @@
+{
+  "frames": {
+    "card-back-sea.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 278,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 278,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 406
+      }
+    },
+    "card-back-sun.png": {
+      "frame": {
+        "x": 282,
+        "y": 2,
+        "w": 279,
+        "h": 405
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 279,
+        "h": 405
+      },
+      "sourceSize": {
+        "w": 279,
+        "h": 405
+      }
+    },
+    "card-back-sunset.png": {
+      "frame": {
+        "x": 563,
+        "y": 2,
+        "w": 279,
+        "h": 405
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 279,
+        "h": 405
+      },
+      "sourceSize": {
+        "w": 279,
+        "h": 405
+      }
+    },
+    "card-back-cat-knight.png": {
+      "frame": {
+        "x": 844,
+        "y": 2,
+        "w": 279,
+        "h": 405
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 279,
+        "h": 405
+      },
+      "sourceSize": {
+        "w": 279,
+        "h": 405
+      }
+    },
+    "card-back-cat-heraldic.png": {
+      "frame": {
+        "x": 1125,
+        "y": 2,
+        "w": 279,
+        "h": 405
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 279,
+        "h": 405
+      },
+      "sourceSize": {
+        "w": 279,
+        "h": 405
+      }
+    },
+    "card-back-lions.png": {
+      "frame": {
+        "x": 1406,
+        "y": 2,
+        "w": 280,
+        "h": 405
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 280,
+        "h": 405
+      },
+      "sourceSize": {
+        "w": 280,
+        "h": 405
+      }
+    },
+    "card-back-classic-1.png": {
+      "frame": {
+        "x": 1688,
+        "y": 2,
+        "w": 278,
+        "h": 405
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 278,
+        "h": 405
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 405
+      }
+    },
+    "card-back-classic-2.png": {
+      "frame": {
+        "x": 2,
+        "y": 410,
+        "w": 278,
+        "h": 405
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 278,
+        "h": 405
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 405
+      }
+    },
+    "card-back-china.png": {
+      "frame": {
+        "x": 282,
+        "y": 410,
+        "w": 278,
+        "h": 405
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 278,
+        "h": 405
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 405
+      }
+    },
+    "card-back-fly.png": {
+      "frame": {
+        "x": 562,
+        "y": 410,
+        "w": 279,
+        "h": 405
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 279,
+        "h": 405
+      },
+      "sourceSize": {
+        "w": 279,
+        "h": 405
+      }
+    },
+    "card-back-cat-princess.png": {
+      "frame": {
+        "x": 843,
+        "y": 410,
+        "w": 279,
+        "h": 405
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 279,
+        "h": 405
+      },
+      "sourceSize": {
+        "w": 279,
+        "h": 405
+      }
+    },
+    "card-back-castle.png": {
+      "frame": {
+        "x": 1124,
+        "y": 410,
+        "w": 279,
+        "h": 405
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 279,
+        "h": 405
+      },
+      "sourceSize": {
+        "w": 279,
+        "h": 405
+      }
+    }
+  },
+  "meta": {
+    "app": "figma2assets",
+    "version": "1.0",
+    "image": "card-backs-chibi-pack-01.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 1024
+    },
+    "scale": "1"
+  }
+}
