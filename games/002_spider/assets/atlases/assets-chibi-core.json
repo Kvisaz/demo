@@ -60,89 +60,109 @@
         "h": 481
       }
     },
-    "play.full.png": {
+    "chest_silver_256x256.png": {
       "frame": {
         "x": 1353,
         "y": 2,
-        "w": 205,
-        "h": 205
+        "w": 256,
+        "h": 256
       },
       "rotated": false,
       "trimmed": false,
       "spriteSourceSize": {
         "x": 0,
         "y": 0,
-        "w": 205,
-        "h": 205
+        "w": 256,
+        "h": 256
       },
       "sourceSize": {
-        "w": 205,
-        "h": 205
+        "w": 256,
+        "h": 256
       }
     },
-    "chest_gold_1_closed.png": {
+    "chest_wood_256x256.png": {
       "frame": {
-        "x": 1560,
+        "x": 1611,
         "y": 2,
-        "w": 216,
-        "h": 186
+        "w": 256,
+        "h": 256
       },
       "rotated": false,
       "trimmed": false,
       "spriteSourceSize": {
         "x": 0,
         "y": 0,
-        "w": 216,
-        "h": 186
+        "w": 256,
+        "h": 256
       },
       "sourceSize": {
-        "w": 216,
-        "h": 186
+        "w": 256,
+        "h": 256
       }
     },
-    "chest_gold_1_opened.png": {
-      "frame": {
-        "x": 1778,
-        "y": 2,
-        "w": 211,
-        "h": 186
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 211,
-        "h": 186
-      },
-      "sourceSize": {
-        "w": 211,
-        "h": 186
-      }
-    },
-    "icon.shop.3-1.png": {
+    "chest_gold_256x256.png": {
       "frame": {
         "x": 2,
         "y": 644,
-        "w": 130,
-        "h": 147
+        "w": 256,
+        "h": 256
       },
       "rotated": false,
       "trimmed": false,
       "spriteSourceSize": {
         "x": 0,
         "y": 0,
-        "w": 130,
-        "h": 147
+        "w": 256,
+        "h": 256
       },
       "sourceSize": {
-        "w": 130,
-        "h": 147
+        "w": 256,
+        "h": 256
+      }
+    },
+    "play.full.png": {
+      "frame": {
+        "x": 260,
+        "y": 644,
+        "w": 205,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 205,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 205,
+        "h": 205
+      }
+    },
+    "icon.shop.png": {
+      "frame": {
+        "x": 467,
+        "y": 644,
+        "w": 169,
+        "h": 191
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 191
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 191
       }
     },
     "ui.dialog.bg.light.nine.40.png": {
       "frame": {
-        "x": 134,
+        "x": 638,
         "y": 644,
         "w": 144,
         "h": 144
@@ -162,7 +182,7 @@
     },
     "ui.dialog.bg.dark.nine.40.png": {
       "frame": {
-        "x": 280,
+        "x": 784,
         "y": 644,
         "w": 144,
         "h": 144
@@ -182,7 +202,7 @@
     },
     "coin.full.png": {
       "frame": {
-        "x": 426,
+        "x": 930,
         "y": 644,
         "w": 134,
         "h": 140
@@ -202,7 +222,7 @@
     },
     "ui.button.normal.nine.20.png": {
       "frame": {
-        "x": 562,
+        "x": 1066,
         "y": 644,
         "w": 136,
         "h": 136
@@ -222,7 +242,7 @@
     },
     "ui.button.accent.nine.20.png": {
       "frame": {
-        "x": 700,
+        "x": 1204,
         "y": 644,
         "w": 136,
         "h": 136
@@ -242,7 +262,7 @@
     },
     "ui.button.warning.nine.20.png": {
       "frame": {
-        "x": 838,
+        "x": 1342,
         "y": 644,
         "w": 136,
         "h": 136
@@ -262,7 +282,7 @@
     },
     "ui.switch.sound.on.png": {
       "frame": {
-        "x": 976,
+        "x": 1480,
         "y": 644,
         "w": 128,
         "h": 134
@@ -282,7 +302,7 @@
     },
     "ui.switch.sound.off.png": {
       "frame": {
-        "x": 1106,
+        "x": 1610,
         "y": 644,
         "w": 128,
         "h": 134
@@ -302,7 +322,7 @@
     },
     "ui.switch.music.on.png": {
       "frame": {
-        "x": 1236,
+        "x": 1740,
         "y": 644,
         "w": 128,
         "h": 134
@@ -322,7 +342,7 @@
     },
     "ui.switch.music.off.png": {
       "frame": {
-        "x": 1366,
+        "x": 1870,
         "y": 644,
         "w": 128,
         "h": 134
@@ -342,8 +362,8 @@
     },
     "ui.overlay.nine.0.png": {
       "frame": {
-        "x": 1496,
-        "y": 644,
+        "x": 2,
+        "y": 902,
         "w": 128,
         "h": 128
       },
@@ -362,8 +382,8 @@
     },
     "ui.dialog.group.zone.light.nine.16.png": {
       "frame": {
-        "x": 1626,
-        "y": 644,
+        "x": 132,
+        "y": 902,
         "w": 128,
         "h": 128
       },
@@ -382,8 +402,8 @@
     },
     "ui.dialog.group.zone.dark.nine.16.png": {
       "frame": {
-        "x": 1756,
-        "y": 644,
+        "x": 262,
+        "y": 902,
         "w": 128,
         "h": 128
       },
@@ -402,8 +422,8 @@
     },
     "icon-back-gold.png": {
       "frame": {
-        "x": 1886,
-        "y": 644,
+        "x": 392,
+        "y": 902,
         "w": 120,
         "h": 128
       },
@@ -422,8 +442,8 @@
     },
     "ui.dialog.inset.lightgray.nine.16.png": {
       "frame": {
-        "x": 2,
-        "y": 793,
+        "x": 514,
+        "y": 902,
         "w": 128,
         "h": 128
       },
@@ -442,8 +462,8 @@
     },
     "checkmark.png": {
       "frame": {
-        "x": 132,
-        "y": 793,
+        "x": 644,
+        "y": 902,
         "w": 128,
         "h": 128
       },
@@ -462,8 +482,8 @@
     },
     "gear_gold-1.png": {
       "frame": {
-        "x": 262,
-        "y": 793,
+        "x": 774,
+        "y": 902,
         "w": 112,
         "h": 111
       },
@@ -482,8 +502,8 @@
     },
     "button.newgame.png": {
       "frame": {
-        "x": 376,
-        "y": 793,
+        "x": 888,
+        "y": 902,
         "w": 102,
         "h": 102
       },
@@ -502,8 +522,8 @@
     },
     "button.magic.png": {
       "frame": {
-        "x": 480,
-        "y": 793,
+        "x": 992,
+        "y": 902,
         "w": 102,
         "h": 102
       },
@@ -522,8 +542,8 @@
     },
     "button.hint.png": {
       "frame": {
-        "x": 584,
-        "y": 793,
+        "x": 1096,
+        "y": 902,
         "w": 102,
         "h": 102
       },
@@ -542,8 +562,8 @@
     },
     "button.replay.png": {
       "frame": {
-        "x": 688,
-        "y": 793,
+        "x": 1200,
+        "y": 902,
         "w": 102,
         "h": 102
       },
@@ -562,8 +582,8 @@
     },
     "ui.button.green.height82.nine.36.png": {
       "frame": {
-        "x": 792,
-        "y": 793,
+        "x": 1304,
+        "y": 902,
         "w": 334,
         "h": 90
       },
@@ -582,8 +602,8 @@
     },
     "ui.button.yellow.height82.nine.36.png": {
       "frame": {
-        "x": 1128,
-        "y": 793,
+        "x": 1640,
+        "y": 902,
         "w": 334,
         "h": 90
       },
@@ -602,8 +622,8 @@
     },
     "ui.button.red.height82.nine.36.png": {
       "frame": {
-        "x": 1464,
-        "y": 793,
+        "x": 2,
+        "y": 1032,
         "w": 334,
         "h": 90
       },
@@ -622,8 +642,8 @@
     },
     "ui.counter.bg.gray.gold.stroked.nine.20.png": {
       "frame": {
-        "x": 1800,
-        "y": 793,
+        "x": 338,
+        "y": 1032,
         "w": 117,
         "h": 84
       },
@@ -642,8 +662,8 @@
     },
     "ui.useful.bg.nine.32.png": {
       "frame": {
-        "x": 1919,
-        "y": 793,
+        "x": 457,
+        "y": 1032,
         "w": 92,
         "h": 76
       },
@@ -662,8 +682,8 @@
     },
     "icon.close_cross.white.png": {
       "frame": {
-        "x": 2,
-        "y": 923,
+        "x": 551,
+        "y": 1032,
         "w": 52,
         "h": 52
       },
@@ -682,8 +702,8 @@
     },
     "icon.close_cross.gray.png": {
       "frame": {
-        "x": 56,
-        "y": 923,
+        "x": 605,
+        "y": 1032,
         "w": 52,
         "h": 52
       },
@@ -702,8 +722,8 @@
     },
     "money.bg.nine.22.png": {
       "frame": {
-        "x": 110,
-        "y": 923,
+        "x": 659,
+        "y": 1032,
         "w": 186,
         "h": 46
       },
@@ -722,8 +742,8 @@
     },
     "coin.money.counter.png": {
       "frame": {
-        "x": 298,
-        "y": 923,
+        "x": 847,
+        "y": 1032,
         "w": 44,
         "h": 46
       },
@@ -742,8 +762,8 @@
     },
     "progress.bg.gray.nine.16.png": {
       "frame": {
-        "x": 344,
-        "y": 923,
+        "x": 893,
+        "y": 1032,
         "w": 108,
         "h": 34
       },
@@ -762,8 +782,8 @@
     },
     "progress.bar.greenlight.nine.16.png": {
       "frame": {
-        "x": 454,
-        "y": 923,
+        "x": 1003,
+        "y": 1032,
         "w": 106,
         "h": 32
       },
@@ -782,8 +802,8 @@
     },
     "progress.bar.bluelight.nine.16.png": {
       "frame": {
-        "x": 562,
-        "y": 923,
+        "x": 1111,
+        "y": 1032,
         "w": 106,
         "h": 32
       },
@@ -802,8 +822,8 @@
     },
     "bonus.label.nine.12.png": {
       "frame": {
-        "x": 670,
-        "y": 923,
+        "x": 1219,
+        "y": 1032,
         "w": 98,
         "h": 28
       },
@@ -822,8 +842,8 @@
     },
     "icon.play.bonus.label.png": {
       "frame": {
-        "x": 770,
-        "y": 923,
+        "x": 1319,
+        "y": 1032,
         "w": 22,
         "h": 22
       },
@@ -842,8 +862,8 @@
     },
     "progress.bg.gray.nine.8.png": {
       "frame": {
-        "x": 794,
-        "y": 923,
+        "x": 1343,
+        "y": 1032,
         "w": 108,
         "h": 18
       },
@@ -862,8 +882,8 @@
     },
     "progress.bar.greenlight.nine.8.png": {
       "frame": {
-        "x": 904,
-        "y": 923,
+        "x": 1453,
+        "y": 1032,
         "w": 106,
         "h": 16
       },
@@ -882,8 +902,8 @@
     },
     "progress.bar.bluelight.nine.8.png": {
       "frame": {
-        "x": 1012,
-        "y": 923,
+        "x": 1561,
+        "y": 1032,
         "w": 106,
         "h": 16
       },
@@ -908,7 +928,7 @@
     "format": "RGBA8888",
     "size": {
       "w": 2048,
-      "h": 1024
+      "h": 2048
     },
     "scale": "1"
   }
