@@ -580,9 +580,29 @@
         "h": 102
       }
     },
-    "ui.button.green.height82.nine.36.png": {
+    "shop.item.bg.nine.40.png": {
       "frame": {
         "x": 1304,
+        "y": 902,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "ui.button.green.height82.nine.36.png": {
+      "frame": {
+        "x": 1406,
         "y": 902,
         "w": 334,
         "h": 90
@@ -602,8 +622,8 @@
     },
     "ui.button.yellow.height82.nine.36.png": {
       "frame": {
-        "x": 1640,
-        "y": 902,
+        "x": 2,
+        "y": 1032,
         "w": 334,
         "h": 90
       },
@@ -622,7 +642,7 @@
     },
     "ui.button.red.height82.nine.36.png": {
       "frame": {
-        "x": 2,
+        "x": 338,
         "y": 1032,
         "w": 334,
         "h": 90
@@ -642,7 +662,7 @@
     },
     "ui.counter.bg.gray.gold.stroked.nine.20.png": {
       "frame": {
-        "x": 338,
+        "x": 674,
         "y": 1032,
         "w": 117,
         "h": 84
@@ -662,7 +682,7 @@
     },
     "ui.useful.bg.nine.32.png": {
       "frame": {
-        "x": 457,
+        "x": 793,
         "y": 1032,
         "w": 92,
         "h": 76
@@ -682,7 +702,7 @@
     },
     "icon.close_cross.white.png": {
       "frame": {
-        "x": 551,
+        "x": 887,
         "y": 1032,
         "w": 52,
         "h": 52
@@ -702,7 +722,7 @@
     },
     "icon.close_cross.gray.png": {
       "frame": {
-        "x": 605,
+        "x": 941,
         "y": 1032,
         "w": 52,
         "h": 52
@@ -722,7 +742,7 @@
     },
     "money.bg.nine.22.png": {
       "frame": {
-        "x": 659,
+        "x": 995,
         "y": 1032,
         "w": 186,
         "h": 46
@@ -742,7 +762,7 @@
     },
     "coin.money.counter.png": {
       "frame": {
-        "x": 847,
+        "x": 1183,
         "y": 1032,
         "w": 44,
         "h": 46
@@ -762,7 +782,7 @@
     },
     "progress.bg.gray.nine.16.png": {
       "frame": {
-        "x": 893,
+        "x": 1229,
         "y": 1032,
         "w": 108,
         "h": 34
@@ -782,7 +802,7 @@
     },
     "progress.bar.greenlight.nine.16.png": {
       "frame": {
-        "x": 1003,
+        "x": 1339,
         "y": 1032,
         "w": 106,
         "h": 32
@@ -802,7 +822,7 @@
     },
     "progress.bar.bluelight.nine.16.png": {
       "frame": {
-        "x": 1111,
+        "x": 1447,
         "y": 1032,
         "w": 106,
         "h": 32
@@ -822,7 +842,7 @@
     },
     "bonus.label.nine.12.png": {
       "frame": {
-        "x": 1219,
+        "x": 1555,
         "y": 1032,
         "w": 98,
         "h": 28
@@ -842,7 +862,7 @@
     },
     "icon.play.bonus.label.png": {
       "frame": {
-        "x": 1319,
+        "x": 1655,
         "y": 1032,
         "w": 22,
         "h": 22
@@ -862,7 +882,7 @@
     },
     "progress.bg.gray.nine.8.png": {
       "frame": {
-        "x": 1343,
+        "x": 1679,
         "y": 1032,
         "w": 108,
         "h": 18
@@ -882,7 +902,7 @@
     },
     "progress.bar.greenlight.nine.8.png": {
       "frame": {
-        "x": 1453,
+        "x": 1789,
         "y": 1032,
         "w": 106,
         "h": 16
@@ -902,7 +922,7 @@
     },
     "progress.bar.bluelight.nine.8.png": {
       "frame": {
-        "x": 1561,
+        "x": 1897,
         "y": 1032,
         "w": 106,
         "h": 16
