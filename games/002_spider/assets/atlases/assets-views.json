@@ -1,0 +1,356 @@
+{
+  "textures": [
+    {
+      "image": "assets-views.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 768,
+        "h": 966
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "cards.triple.chibi.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 400,
+            "h": 235
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 400,
+            "h": 235
+          },
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 400,
+            "h": 235
+          }
+        },
+        {
+          "filename": "previewstyleentrancecardsback.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 363,
+            "h": 203
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 363,
+            "h": 203
+          },
+          "frame": {
+            "x": 2,
+            "y": 241,
+            "w": 363,
+            "h": 203
+          }
+        },
+        {
+          "filename": "bg.castle.basic.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 360,
+            "h": 202
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 360,
+            "h": 202
+          },
+          "frame": {
+            "x": 406,
+            "y": 2,
+            "w": 360,
+            "h": 202
+          }
+        },
+        {
+          "filename": "ui.button.green.height82.nine.36.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 300,
+            "h": 80
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 300,
+            "h": 80
+          },
+          "frame": {
+            "x": 406,
+            "y": 208,
+            "w": 300,
+            "h": 80
+          }
+        },
+        {
+          "filename": "ui.button.yellow.height82.nine.36.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 300,
+            "h": 80
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 300,
+            "h": 80
+          },
+          "frame": {
+            "x": 369,
+            "y": 292,
+            "w": 300,
+            "h": 80
+          }
+        },
+        {
+          "filename": "icon.chest_gold_256x256.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 256,
+            "h": 256
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 256,
+            "h": 256
+          },
+          "frame": {
+            "x": 2,
+            "y": 448,
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "filename": "icon.chest_silver_256x256.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 256,
+            "h": 256
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 256,
+            "h": 256
+          },
+          "frame": {
+            "x": 262,
+            "y": 448,
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "filename": "icon.chest_wood_256x256.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 256,
+            "h": 256
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 256,
+            "h": 256
+          },
+          "frame": {
+            "x": 2,
+            "y": 708,
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "filename": "icon.packet_gold.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 169,
+            "h": 191
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 169,
+            "h": 191
+          },
+          "frame": {
+            "x": 262,
+            "y": 708,
+            "w": 169,
+            "h": 191
+          }
+        },
+        {
+          "filename": "ui.dialog.bg.light.nine.40.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 144,
+            "h": 144
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 144,
+            "h": 144
+          },
+          "frame": {
+            "x": 522,
+            "y": 376,
+            "w": 144,
+            "h": 144
+          }
+        },
+        {
+          "filename": "bggoldshopitem.nine.40.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 128,
+            "h": 128
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 128,
+            "h": 128
+          },
+          "frame": {
+            "x": 522,
+            "y": 524,
+            "w": 128,
+            "h": 128
+          }
+        },
+        {
+          "filename": "button_bg_square_green_light-1.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 96,
+            "h": 101
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 96,
+            "h": 101
+          },
+          "frame": {
+            "x": 670,
+            "y": 376,
+            "w": 96,
+            "h": 101
+          }
+        },
+        {
+          "filename": "icon-back-gold.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 75,
+            "h": 80
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 75,
+            "h": 80
+          },
+          "frame": {
+            "x": 673,
+            "y": 292,
+            "w": 75,
+            "h": 80
+          }
+        },
+        {
+          "filename": "icon.play.goldshopbutton.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 70,
+            "h": 70
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 70,
+            "h": 70
+          },
+          "frame": {
+            "x": 670,
+            "y": 481,
+            "w": 70,
+            "h": 70
+          }
+        },
+        {
+          "filename": "coin.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 60,
+            "h": 63
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 60,
+            "h": 63
+          },
+          "frame": {
+            "x": 369,
+            "y": 376,
+            "w": 60,
+            "h": 63
+          }
+        },
+        {
+          "filename": "button_bg_square_green_light-2.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 96,
+            "h": 101
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 96,
+            "h": 101
+          },
+          "frame": {
+            "x": 670,
+            "y": 376,
+            "w": 96,
+            "h": 101
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.5",
+    "image": "assets-views.png"
+  }
+}
