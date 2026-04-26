@@ -4,8 +4,8 @@
       "image": "assets-views.png",
       "format": "RGBA8888",
       "size": {
-        "w": 768,
-        "h": 966
+        "w": 1763,
+        "h": 1570
       },
       "scale": 1,
       "frames": [
@@ -31,6 +31,27 @@
           }
         },
         {
+          "filename": "cards.triple.classic.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 400,
+            "h": 235
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 400,
+            "h": 235
+          },
+          "frame": {
+            "x": 2,
+            "y": 241,
+            "w": 400,
+            "h": 235
+          }
+        },
+        {
           "filename": "previewstyleentrancecardsback.png",
           "rotated": false,
           "trimmed": false,
@@ -45,14 +66,14 @@
             "h": 203
           },
           "frame": {
-            "x": 2,
-            "y": 241,
+            "x": 406,
+            "y": 2,
             "w": 363,
             "h": 203
           }
         },
         {
-          "filename": "bg.castle.basic.png",
+          "filename": "bg-prev-selected.png",
           "rotated": false,
           "trimmed": false,
           "sourceSize": {
@@ -67,9 +88,282 @@
           },
           "frame": {
             "x": 406,
-            "y": 2,
+            "y": 209,
             "w": 360,
             "h": 202
+          }
+        },
+        {
+          "filename": "bg-prev.basic.castles.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 360,
+            "h": 202
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 360,
+            "h": 202
+          },
+          "frame": {
+            "x": 2,
+            "y": 480,
+            "w": 360,
+            "h": 202
+          }
+        },
+        {
+          "filename": "bg-prev.castle.basic.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 360,
+            "h": 202
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 360,
+            "h": 202
+          },
+          "frame": {
+            "x": 366,
+            "y": 480,
+            "w": 360,
+            "h": 202
+          }
+        },
+        {
+          "filename": "bg-prev.catcastle.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 360,
+            "h": 202
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 360,
+            "h": 202
+          },
+          "frame": {
+            "x": 2,
+            "y": 686,
+            "w": 360,
+            "h": 202
+          }
+        },
+        {
+          "filename": "bg-prev.dragonflies.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 360,
+            "h": 202
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 360,
+            "h": 202
+          },
+          "frame": {
+            "x": 366,
+            "y": 686,
+            "w": 360,
+            "h": 202
+          }
+        },
+        {
+          "filename": "bg-prev.fairy_cat.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 360,
+            "h": 203
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 360,
+            "h": 203
+          },
+          "frame": {
+            "x": 773,
+            "y": 2,
+            "w": 360,
+            "h": 203
+          }
+        },
+        {
+          "filename": "bg-prev.masti.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 360,
+            "h": 203
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 360,
+            "h": 203
+          },
+          "frame": {
+            "x": 770,
+            "y": 209,
+            "w": 360,
+            "h": 203
+          }
+        },
+        {
+          "filename": "bg-prev.moon.fantasy.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 360,
+            "h": 203
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 360,
+            "h": 203
+          },
+          "frame": {
+            "x": 730,
+            "y": 416,
+            "w": 360,
+            "h": 203
+          }
+        },
+        {
+          "filename": "bg-prev.seashore.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 360,
+            "h": 203
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 360,
+            "h": 203
+          },
+          "frame": {
+            "x": 730,
+            "y": 623,
+            "w": 360,
+            "h": 203
+          }
+        },
+        {
+          "filename": "bg-prev.sleeping.cat.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 360,
+            "h": 203
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 360,
+            "h": 203
+          },
+          "frame": {
+            "x": 2,
+            "y": 892,
+            "w": 360,
+            "h": 203
+          }
+        },
+        {
+          "filename": "bg-prev.sunfield.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 360,
+            "h": 203
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 360,
+            "h": 203
+          },
+          "frame": {
+            "x": 366,
+            "y": 892,
+            "w": 360,
+            "h": 203
+          }
+        },
+        {
+          "filename": "bg-prev.undersea.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 360,
+            "h": 203
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 360,
+            "h": 203
+          },
+          "frame": {
+            "x": 730,
+            "y": 830,
+            "w": 360,
+            "h": 203
+          }
+        },
+        {
+          "filename": "bg-prev.valley.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 360,
+            "h": 203
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 360,
+            "h": 203
+          },
+          "frame": {
+            "x": 2,
+            "y": 1099,
+            "w": 360,
+            "h": 203
+          }
+        },
+        {
+          "filename": "ui.button.red.height82.nine.36.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 334,
+            "h": 90
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 334,
+            "h": 90
+          },
+          "frame": {
+            "x": 730,
+            "y": 1037,
+            "w": 334,
+            "h": 90
           }
         },
         {
@@ -87,8 +381,8 @@
             "h": 80
           },
           "frame": {
-            "x": 406,
-            "y": 208,
+            "x": 366,
+            "y": 1099,
             "w": 300,
             "h": 80
           }
@@ -108,10 +402,283 @@
             "h": 80
           },
           "frame": {
-            "x": 369,
-            "y": 292,
+            "x": 366,
+            "y": 1183,
             "w": 300,
             "h": 80
+          }
+        },
+        {
+          "filename": "thumb.card-back-china.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 180,
+            "h": 263
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 180,
+            "h": 263
+          },
+          "frame": {
+            "x": 1137,
+            "y": 2,
+            "w": 180,
+            "h": 263
+          }
+        },
+        {
+          "filename": "thumb.card-back-classic-2.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 180,
+            "h": 263
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 180,
+            "h": 263
+          },
+          "frame": {
+            "x": 1068,
+            "y": 1037,
+            "w": 180,
+            "h": 263
+          }
+        },
+        {
+          "filename": "thumb.card-back-sea.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 180,
+            "h": 263
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 180,
+            "h": 263
+          },
+          "frame": {
+            "x": 1134,
+            "y": 269,
+            "w": 180,
+            "h": 263
+          }
+        },
+        {
+          "filename": "card.selected.279x405.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 180,
+            "h": 262
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 180,
+            "h": 262
+          },
+          "frame": {
+            "x": 1094,
+            "y": 536,
+            "w": 180,
+            "h": 262
+          }
+        },
+        {
+          "filename": "thumb.card-back-castle.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 180,
+            "h": 262
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 180,
+            "h": 262
+          },
+          "frame": {
+            "x": 2,
+            "y": 1306,
+            "w": 180,
+            "h": 262
+          }
+        },
+        {
+          "filename": "thumb.card-back-cat-heraldic.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 180,
+            "h": 262
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 180,
+            "h": 262
+          },
+          "frame": {
+            "x": 186,
+            "y": 1306,
+            "w": 180,
+            "h": 262
+          }
+        },
+        {
+          "filename": "thumb.card-back-cat-knight.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 180,
+            "h": 262
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 180,
+            "h": 262
+          },
+          "frame": {
+            "x": 370,
+            "y": 1304,
+            "w": 180,
+            "h": 262
+          }
+        },
+        {
+          "filename": "thumb.card-back-cat-princess.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 180,
+            "h": 262
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 180,
+            "h": 262
+          },
+          "frame": {
+            "x": 554,
+            "y": 1304,
+            "w": 180,
+            "h": 262
+          }
+        },
+        {
+          "filename": "thumb.card-back-classic.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 180,
+            "h": 262
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 180,
+            "h": 262
+          },
+          "frame": {
+            "x": 738,
+            "y": 1304,
+            "w": 180,
+            "h": 262
+          }
+        },
+        {
+          "filename": "thumb.card-back-fly.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 180,
+            "h": 262
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 180,
+            "h": 262
+          },
+          "frame": {
+            "x": 922,
+            "y": 1304,
+            "w": 180,
+            "h": 262
+          }
+        },
+        {
+          "filename": "thumb.card-back-sun.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 180,
+            "h": 262
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 180,
+            "h": 262
+          },
+          "frame": {
+            "x": 1106,
+            "y": 1304,
+            "w": 180,
+            "h": 262
+          }
+        },
+        {
+          "filename": "thumb.card-back-sunset.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 180,
+            "h": 262
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 180,
+            "h": 262
+          },
+          "frame": {
+            "x": 1321,
+            "y": 2,
+            "w": 180,
+            "h": 262
+          }
+        },
+        {
+          "filename": "thumb.card-back-lions.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 180,
+            "h": 261
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 180,
+            "h": 261
+          },
+          "frame": {
+            "x": 1321,
+            "y": 268,
+            "w": 180,
+            "h": 261
           }
         },
         {
@@ -129,8 +696,8 @@
             "h": 256
           },
           "frame": {
-            "x": 2,
-            "y": 448,
+            "x": 1505,
+            "y": 2,
             "w": 256,
             "h": 256
           }
@@ -150,8 +717,8 @@
             "h": 256
           },
           "frame": {
-            "x": 262,
-            "y": 448,
+            "x": 1505,
+            "y": 262,
             "w": 256,
             "h": 256
           }
@@ -171,8 +738,8 @@
             "h": 256
           },
           "frame": {
-            "x": 2,
-            "y": 708,
+            "x": 1505,
+            "y": 522,
             "w": 256,
             "h": 256
           }
@@ -192,8 +759,8 @@
             "h": 191
           },
           "frame": {
-            "x": 262,
-            "y": 708,
+            "x": 1318,
+            "y": 533,
             "w": 169,
             "h": 191
           }
@@ -213,8 +780,8 @@
             "h": 144
           },
           "frame": {
-            "x": 522,
-            "y": 376,
+            "x": 670,
+            "y": 1131,
             "w": 144,
             "h": 144
           }
@@ -234,14 +801,77 @@
             "h": 128
           },
           "frame": {
-            "x": 522,
-            "y": 524,
+            "x": 818,
+            "y": 1131,
             "w": 128,
             "h": 128
           }
         },
         {
-          "filename": "button_bg_square_green_light-1.png",
+          "filename": "bgshopmoneycounter.nine.14.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 110,
+            "h": 28
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 110,
+            "h": 28
+          },
+          "frame": {
+            "x": 950,
+            "y": 1131,
+            "w": 110,
+            "h": 28
+          }
+        },
+        {
+          "filename": "btstyleshopselect.select.nine.15.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 110,
+            "h": 29
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 110,
+            "h": 29
+          },
+          "frame": {
+            "x": 366,
+            "y": 1267,
+            "w": 110,
+            "h": 29
+          }
+        },
+        {
+          "filename": "choose.button.dead.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 110,
+            "h": 29
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 110,
+            "h": 29
+          },
+          "frame": {
+            "x": 950,
+            "y": 1163,
+            "w": 110,
+            "h": 29
+          }
+        },
+        {
+          "filename": "button_bg_square_green_light.png",
           "rotated": false,
           "trimmed": false,
           "sourceSize": {
@@ -255,10 +885,31 @@
             "h": 101
           },
           "frame": {
-            "x": 670,
-            "y": 376,
+            "x": 950,
+            "y": 1196,
             "w": 96,
             "h": 101
+          }
+        },
+        {
+          "filename": "icon.checkmark.100.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 100
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100
+          },
+          "frame": {
+            "x": 1290,
+            "y": 728,
+            "w": 100,
+            "h": 100
           }
         },
         {
@@ -276,8 +927,8 @@
             "h": 80
           },
           "frame": {
-            "x": 673,
-            "y": 292,
+            "x": 1394,
+            "y": 728,
             "w": 75,
             "h": 80
           }
@@ -297,10 +948,31 @@
             "h": 70
           },
           "frame": {
-            "x": 670,
-            "y": 481,
+            "x": 1094,
+            "y": 802,
             "w": 70,
             "h": 70
+          }
+        },
+        {
+          "filename": "icon.checkmark.64.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "frame": {
+            "x": 1168,
+            "y": 802,
+            "w": 64,
+            "h": 64
           }
         },
         {
@@ -318,31 +990,199 @@
             "h": 63
           },
           "frame": {
-            "x": 369,
-            "y": 376,
+            "x": 1094,
+            "y": 876,
             "w": 60,
             "h": 63
           }
         },
         {
-          "filename": "button_bg_square_green_light-2.png",
+          "filename": "text.checkmark.value.png",
           "rotated": false,
           "trimmed": false,
           "sourceSize": {
-            "w": 96,
-            "h": 101
+            "w": 56,
+            "h": 39
           },
           "spriteSourceSize": {
             "x": 0,
             "y": 0,
-            "w": 96,
-            "h": 101
+            "w": 56,
+            "h": 39
           },
           "frame": {
-            "x": 670,
-            "y": 376,
-            "w": 96,
-            "h": 101
+            "x": 406,
+            "y": 415,
+            "w": 56,
+            "h": 39
+          }
+        },
+        {
+          "filename": "bgopacity.checkmark.bg.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "frame": {
+            "x": 1236,
+            "y": 802,
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "coin.40.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 40,
+            "h": 42
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 40,
+            "h": 42
+          },
+          "frame": {
+            "x": 466,
+            "y": 415,
+            "w": 40,
+            "h": 42
+          }
+        },
+        {
+          "filename": "text.checkmark.value50.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 41,
+            "h": 39
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 41,
+            "h": 39
+          },
+          "frame": {
+            "x": 510,
+            "y": 415,
+            "w": 41,
+            "h": 39
+          }
+        },
+        {
+          "filename": "icon.checkmark.40.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 40,
+            "h": 40
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 40,
+            "h": 40
+          },
+          "frame": {
+            "x": 555,
+            "y": 415,
+            "w": 40,
+            "h": 40
+          }
+        },
+        {
+          "filename": "text.checkmark.value0.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 22,
+            "h": 39
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 22,
+            "h": 39
+          },
+          "frame": {
+            "x": 1473,
+            "y": 728,
+            "w": 22,
+            "h": 39
+          }
+        },
+        {
+          "filename": "text.checkmark.value25.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 39,
+            "h": 39
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 39,
+            "h": 39
+          },
+          "frame": {
+            "x": 599,
+            "y": 415,
+            "w": 39,
+            "h": 39
+          }
+        },
+        {
+          "filename": "text.checkmark.value75.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 38,
+            "h": 39
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 38,
+            "h": 39
+          },
+          "frame": {
+            "x": 642,
+            "y": 415,
+            "w": 38,
+            "h": 39
+          }
+        },
+        {
+          "filename": "bg.castle.basic.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 360,
+            "h": 202
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 360,
+            "h": 202
+          },
+          "frame": {
+            "x": 366,
+            "y": 480,
+            "w": 360,
+            "h": 202
           }
         }
       ]
