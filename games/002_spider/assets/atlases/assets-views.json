@@ -1102,6 +1102,90 @@
           }
         },
         {
+          "filename": "iconbuttonhint.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 92,
+            "h": 92
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 92,
+            "h": 92
+          },
+          "frame": {
+            "x": 1778,
+            "y": 522,
+            "w": 92,
+            "h": 92
+          }
+        },
+        {
+          "filename": "iconbuttonmagic.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 92,
+            "h": 92
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 92,
+            "h": 92
+          },
+          "frame": {
+            "x": 1874,
+            "y": 522,
+            "w": 92,
+            "h": 92
+          }
+        },
+        {
+          "filename": "iconbuttonundo.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 92,
+            "h": 91
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 92,
+            "h": 91
+          },
+          "frame": {
+            "x": 1642,
+            "y": 522,
+            "w": 92,
+            "h": 91
+          }
+        },
+        {
+          "filename": "consumable.nine.13.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 89,
+            "h": 26
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 89,
+            "h": 26
+          },
+          "frame": {
+            "x": 1001,
+            "y": 826,
+            "w": 89,
+            "h": 26
+          }
+        },
+        {
           "filename": "icon-back-gold.png",
           "rotated": false,
           "trimmed": false,
@@ -1263,8 +1347,8 @@
             "h": 42
           },
           "frame": {
-            "x": 1411,
-            "y": 1218,
+            "x": 1734,
+            "y": 617,
             "w": 40,
             "h": 42
           }
@@ -1284,8 +1368,8 @@
             "h": 39
           },
           "frame": {
-            "x": 1231,
-            "y": 1092,
+            "x": 1411,
+            "y": 1218,
             "w": 41,
             "h": 39
           }
@@ -1305,8 +1389,8 @@
             "h": 40
           },
           "frame": {
-            "x": 1682,
-            "y": 148,
+            "x": 1231,
+            "y": 1092,
             "w": 40,
             "h": 40
           }
@@ -1326,8 +1410,8 @@
             "h": 39
           },
           "frame": {
-            "x": 1225,
-            "y": 1135,
+            "x": 1429,
+            "y": 1021,
             "w": 22,
             "h": 39
           }
@@ -1348,7 +1432,7 @@
           },
           "frame": {
             "x": 1682,
-            "y": 192,
+            "y": 148,
             "w": 39,
             "h": 39
           }
@@ -1369,9 +1453,30 @@
           },
           "frame": {
             "x": 1682,
-            "y": 235,
+            "y": 191,
             "w": 38,
             "h": 39
+          }
+        },
+        {
+          "filename": "iconplay22x22.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 22,
+            "h": 22
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 22,
+            "h": 22
+          },
+          "frame": {
+            "x": 810,
+            "y": 798,
+            "w": 22,
+            "h": 22
           }
         },
         {
