@@ -4,11 +4,263 @@
 			"image": "main.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 96,
-				"h": 136
+				"w": 664,
+				"h": 606
 			},
 			"scale": 1,
 			"frames": [
+				{
+					"filename": "tile_16_cinderella_apron.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 173
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 173
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 162,
+						"h": 173
+					}
+				},
+				{
+					"filename": "tile_8_floor_rag_brush.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 163,
+						"h": 173
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 163,
+						"h": 173
+					},
+					"frame": {
+						"x": 168,
+						"y": 2,
+						"w": 163,
+						"h": 173
+					}
+				},
+				{
+					"filename": "tile_2_old_broom.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 161,
+						"h": 172
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 161,
+						"h": 172
+					},
+					"frame": {
+						"x": 2,
+						"y": 179,
+						"w": 161,
+						"h": 172
+					}
+				},
+				{
+					"filename": "tile_4_rusty_bucket.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 172
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 172
+					},
+					"frame": {
+						"x": 167,
+						"y": 179,
+						"w": 162,
+						"h": 172
+					}
+				},
+				{
+					"filename": "tile_dimmed.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 161,
+						"h": 172
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 161,
+						"h": 172
+					},
+					"frame": {
+						"x": 333,
+						"y": 179,
+						"w": 161,
+						"h": 172
+					}
+				},
+				{
+					"filename": "tile_1024_glass_slipper.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 169
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 169
+					},
+					"frame": {
+						"x": 2,
+						"y": 355,
+						"w": 162,
+						"h": 169
+					}
+				},
+				{
+					"filename": "tile_2048_princess_crown.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 161,
+						"h": 169
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 161,
+						"h": 169
+					},
+					"frame": {
+						"x": 335,
+						"y": 2,
+						"w": 161,
+						"h": 169
+					}
+				},
+				{
+					"filename": "tile_512_pumpkin_carriage.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 159,
+						"h": 169
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 159,
+						"h": 169
+					},
+					"frame": {
+						"x": 168,
+						"y": 355,
+						"w": 159,
+						"h": 169
+					}
+				},
+				{
+					"filename": "tile_128_pumpkin.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 168
+					},
+					"frame": {
+						"x": 331,
+						"y": 355,
+						"w": 162,
+						"h": 168
+					}
+				},
+				{
+					"filename": "tile_256_magic_wand_sparkles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 168
+					},
+					"frame": {
+						"x": 500,
+						"y": 2,
+						"w": 162,
+						"h": 168
+					}
+				},
+				{
+					"filename": "tile_32_simple_blue_dress.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 168
+					},
+					"frame": {
+						"x": 497,
+						"y": 355,
+						"w": 160,
+						"h": 168
+					}
+				},
+				{
+					"filename": "tile_64_helper_mouse_thread_spool.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 168
+					},
+					"frame": {
+						"x": 500,
+						"y": 174,
+						"w": 162,
+						"h": 168
+					}
+				},
 				{
 					"filename": "ui.useful.bg.nine.32.png",
 					"rotated": false,
@@ -25,7 +277,7 @@
 					},
 					"frame": {
 						"x": 2,
-						"y": 2,
+						"y": 528,
 						"w": 92,
 						"h": 76
 					}
@@ -45,8 +297,8 @@
 						"h": 52
 					},
 					"frame": {
-						"x": 2,
-						"y": 82,
+						"x": 98,
+						"y": 528,
 						"w": 52,
 						"h": 52
 					}
@@ -56,6 +308,6 @@
 	],
 	"meta": {
 		"app": "http://github.com/odrick/free-tex-packer-core",
-		"version": "0.3.4"
+		"version": "0.3.5"
 	}
 }
