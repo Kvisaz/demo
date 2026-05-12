@@ -4,11 +4,74 @@
 			"image": "main.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 755,
-				"h": 783
+				"w": 1050,
+				"h": 951
 			},
 			"scale": 1,
 			"frames": [
+				{
+					"filename": "frame-crown.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 407,
+						"h": 233
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 407,
+						"h": 233
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 407,
+						"h": 233
+					}
+				},
+				{
+					"filename": "frame-diamond.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 386,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 386,
+						"h": 220
+					},
+					"frame": {
+						"x": 2,
+						"y": 239,
+						"w": 386,
+						"h": 220
+					}
+				},
+				{
+					"filename": "ui-info-frame.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 325,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 325,
+						"h": 160
+					},
+					"frame": {
+						"x": 413,
+						"y": 2,
+						"w": 325,
+						"h": 160
+					}
+				},
 				{
 					"filename": "board_view_bg.nine.32.png",
 					"rotated": false,
@@ -24,10 +87,31 @@
 						"h": 256
 					},
 					"frame": {
-						"x": 2,
-						"y": 2,
+						"x": 413,
+						"y": 166,
 						"w": 256,
 						"h": 256
+					}
+				},
+				{
+					"filename": "frame-03.nine.50.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 180,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 180,
+						"h": 138
+					},
+					"frame": {
+						"x": 2,
+						"y": 463,
+						"w": 180,
+						"h": 138
 					}
 				},
 				{
@@ -45,8 +129,8 @@
 						"h": 173
 					},
 					"frame": {
-						"x": 262,
-						"y": 2,
+						"x": 392,
+						"y": 426,
 						"w": 162,
 						"h": 173
 					}
@@ -66,8 +150,8 @@
 						"h": 173
 					},
 					"frame": {
-						"x": 2,
-						"y": 262,
+						"x": 558,
+						"y": 426,
 						"w": 163,
 						"h": 173
 					}
@@ -87,8 +171,8 @@
 						"h": 172
 					},
 					"frame": {
-						"x": 262,
-						"y": 179,
+						"x": 2,
+						"y": 605,
 						"w": 161,
 						"h": 172
 					}
@@ -108,8 +192,8 @@
 						"h": 172
 					},
 					"frame": {
-						"x": 428,
-						"y": 2,
+						"x": 167,
+						"y": 605,
 						"w": 162,
 						"h": 172
 					}
@@ -129,8 +213,8 @@
 						"h": 172
 					},
 					"frame": {
-						"x": 428,
-						"y": 178,
+						"x": 333,
+						"y": 603,
 						"w": 161,
 						"h": 172
 					}
@@ -150,8 +234,8 @@
 						"h": 170
 					},
 					"frame": {
-						"x": 2,
-						"y": 439,
+						"x": 498,
+						"y": 603,
 						"w": 159,
 						"h": 170
 					}
@@ -171,8 +255,8 @@
 						"h": 169
 					},
 					"frame": {
-						"x": 427,
-						"y": 354,
+						"x": 742,
+						"y": 2,
 						"w": 162,
 						"h": 169
 					}
@@ -192,8 +276,8 @@
 						"h": 169
 					},
 					"frame": {
-						"x": 165,
-						"y": 439,
+						"x": 661,
+						"y": 603,
 						"w": 161,
 						"h": 169
 					}
@@ -213,8 +297,8 @@
 						"h": 169
 					},
 					"frame": {
-						"x": 594,
-						"y": 2,
+						"x": 725,
+						"y": 175,
 						"w": 159,
 						"h": 169
 					}
@@ -234,8 +318,8 @@
 						"h": 168
 					},
 					"frame": {
-						"x": 2,
-						"y": 613,
+						"x": 725,
+						"y": 348,
 						"w": 162,
 						"h": 168
 					}
@@ -255,8 +339,8 @@
 						"h": 168
 					},
 					"frame": {
-						"x": 168,
-						"y": 612,
+						"x": 2,
+						"y": 781,
 						"w": 162,
 						"h": 168
 					}
@@ -276,8 +360,8 @@
 						"h": 168
 					},
 					"frame": {
-						"x": 593,
-						"y": 178,
+						"x": 168,
+						"y": 781,
 						"w": 160,
 						"h": 168
 					}
@@ -297,10 +381,136 @@
 						"h": 168
 					},
 					"frame": {
-						"x": 334,
-						"y": 527,
+						"x": 332,
+						"y": 781,
 						"w": 162,
 						"h": 168
+					}
+				},
+				{
+					"filename": "effect-button-glow.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 164,
+						"h": 163
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 164,
+						"h": 163
+					},
+					"frame": {
+						"x": 498,
+						"y": 777,
+						"w": 164,
+						"h": 163
+					}
+				},
+				{
+					"filename": "icon-hammer.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 164
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 164
+					},
+					"frame": {
+						"x": 666,
+						"y": 776,
+						"w": 140,
+						"h": 164
+					}
+				},
+				{
+					"filename": "button-careta.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 161
+					},
+					"frame": {
+						"x": 908,
+						"y": 2,
+						"w": 140,
+						"h": 161
+					}
+				},
+				{
+					"filename": "button-undo.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 161
+					},
+					"frame": {
+						"x": 908,
+						"y": 167,
+						"w": 140,
+						"h": 161
+					}
+				},
+				{
+					"filename": "button-settings-slider.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 160
+					},
+					"frame": {
+						"x": 810,
+						"y": 776,
+						"w": 140,
+						"h": 160
+					}
+				},
+				{
+					"filename": "button-shop-bag.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 159
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 159
+					},
+					"frame": {
+						"x": 891,
+						"y": 332,
+						"w": 140,
+						"h": 159
 					}
 				},
 				{
@@ -318,8 +528,8 @@
 						"h": 76
 					},
 					"frame": {
-						"x": 330,
-						"y": 355,
+						"x": 954,
+						"y": 495,
 						"w": 92,
 						"h": 76
 					}
@@ -339,8 +549,8 @@
 						"h": 52
 					},
 					"frame": {
-						"x": 169,
-						"y": 355,
+						"x": 891,
+						"y": 495,
 						"w": 52,
 						"h": 52
 					}
