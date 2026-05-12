@@ -49,7 +49,7 @@ canvas {
 #loader-icon {
     width: 96px;
     height: 96px;
-    background: url("./images/heart.png");
+    background: url("./images/carriage.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -106,4 +106,3 @@ canvas {
         --width: 200px;
     }
 }
-
