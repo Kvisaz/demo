@@ -4,8 +4,8 @@
 			"image": "main.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 1134,
-				"h": 1181
+				"w": 1132,
+				"h": 1207
 			},
 			"scale": 1,
 			"frames": [
@@ -262,65 +262,23 @@
 					}
 				},
 				{
-					"filename": "tile_1024_glass_slipper.png",
+					"filename": "tile_131072_crown.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 162,
+						"w": 161,
 						"h": 169
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 162,
+						"w": 161,
 						"h": 169
 					},
 					"frame": {
 						"x": 779,
 						"y": 352,
-						"w": 162,
-						"h": 169
-					}
-				},
-				{
-					"filename": "tile_2048_princess_crown.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
 						"w": 161,
-						"h": 169
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 161,
-						"h": 169
-					},
-					"frame": {
-						"x": 779,
-						"y": 525,
-						"w": 161,
-						"h": 169
-					}
-				},
-				{
-					"filename": "tile_512_pumpkin_carriage.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 159,
-						"h": 169
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 159,
-						"h": 169
-					},
-					"frame": {
-						"x": 2,
-						"y": 866,
-						"w": 159,
 						"h": 169
 					}
 				},
@@ -339,7 +297,49 @@
 						"h": 168
 					},
 					"frame": {
-						"x": 165,
+						"x": 779,
+						"y": 525,
+						"w": 162,
+						"h": 168
+					}
+				},
+				{
+					"filename": "tile_16384_castle.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 168
+					},
+					"frame": {
+						"x": 2,
+						"y": 866,
+						"w": 162,
+						"h": 168
+					}
+				},
+				{
+					"filename": "tile_2048_glass_slipper.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 168
+					},
+					"frame": {
+						"x": 168,
 						"y": 866,
 						"w": 162,
 						"h": 168
@@ -360,7 +360,28 @@
 						"h": 168
 					},
 					"frame": {
-						"x": 331,
+						"x": 334,
+						"y": 859,
+						"w": 162,
+						"h": 168
+					}
+				},
+				{
+					"filename": "tile_32768_prince.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 168
+					},
+					"frame": {
+						"x": 500,
 						"y": 859,
 						"w": 162,
 						"h": 168
@@ -381,8 +402,50 @@
 						"h": 168
 					},
 					"frame": {
-						"x": 497,
-						"y": 859,
+						"x": 666,
+						"y": 857,
+						"w": 160,
+						"h": 168
+					}
+				},
+				{
+					"filename": "tile_4096_clock.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 168
+					},
+					"frame": {
+						"x": 968,
+						"y": 2,
+						"w": 162,
+						"h": 168
+					}
+				},
+				{
+					"filename": "tile_512_dress_violet.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 168
+					},
+					"frame": {
+						"x": 944,
+						"y": 352,
 						"w": 160,
 						"h": 168
 					}
@@ -402,10 +465,73 @@
 						"h": 168
 					},
 					"frame": {
-						"x": 661,
-						"y": 857,
+						"x": 968,
+						"y": 174,
 						"w": 162,
 						"h": 168
+					}
+				},
+				{
+					"filename": "tile_65536_colybel.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 168
+					},
+					"frame": {
+						"x": 945,
+						"y": 524,
+						"w": 162,
+						"h": 168
+					}
+				},
+				{
+					"filename": "tile_8192_diadem.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 168
+					},
+					"frame": {
+						"x": 945,
+						"y": 696,
+						"w": 160,
+						"h": 168
+					}
+				},
+				{
+					"filename": "tile_1024_caret_violet.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 167
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 167
+					},
+					"frame": {
+						"x": 2,
+						"y": 1038,
+						"w": 162,
+						"h": 167
 					}
 				},
 				{
@@ -423,8 +549,8 @@
 						"h": 163
 					},
 					"frame": {
-						"x": 968,
-						"y": 2,
+						"x": 168,
+						"y": 1038,
 						"w": 164,
 						"h": 163
 					}
@@ -444,8 +570,8 @@
 						"h": 164
 					},
 					"frame": {
-						"x": 968,
-						"y": 169,
+						"x": 336,
+						"y": 1031,
 						"w": 140,
 						"h": 164
 					}
@@ -465,8 +591,8 @@
 						"h": 161
 					},
 					"frame": {
-						"x": 966,
-						"y": 337,
+						"x": 480,
+						"y": 1031,
 						"w": 140,
 						"h": 161
 					}
@@ -486,8 +612,8 @@
 						"h": 161
 					},
 					"frame": {
-						"x": 945,
-						"y": 502,
+						"x": 624,
+						"y": 1031,
 						"w": 140,
 						"h": 161
 					}
@@ -507,8 +633,8 @@
 						"h": 160
 					},
 					"frame": {
-						"x": 944,
-						"y": 667,
+						"x": 768,
+						"y": 1029,
 						"w": 140,
 						"h": 160
 					}
@@ -528,8 +654,8 @@
 						"h": 160
 					},
 					"frame": {
-						"x": 827,
-						"y": 831,
+						"x": 912,
+						"y": 868,
 						"w": 140,
 						"h": 160
 					}
@@ -549,8 +675,8 @@
 						"h": 159
 					},
 					"frame": {
-						"x": 971,
-						"y": 831,
+						"x": 912,
+						"y": 1032,
 						"w": 140,
 						"h": 159
 					}
@@ -570,52 +696,10 @@
 						"h": 140
 					},
 					"frame": {
-						"x": 2,
-						"y": 1039,
+						"x": 779,
+						"y": 697,
 						"w": 152,
 						"h": 140
-					}
-				},
-				{
-					"filename": "ui.useful.bg.nine.32.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 92,
-						"h": 76
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 92,
-						"h": 76
-					},
-					"frame": {
-						"x": 262,
-						"y": 748,
-						"w": 92,
-						"h": 76
-					}
-				},
-				{
-					"filename": "icon.close_cross.white.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 52,
-						"h": 52
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 52,
-						"h": 52
-					},
-					"frame": {
-						"x": 358,
-						"y": 748,
-						"w": 52,
-						"h": 52
 					}
 				}
 			]
