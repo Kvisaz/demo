@@ -787,6 +787,111 @@
 					}
 				},
 				{
+					"filename": "particle-flower-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 82,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 72
+					},
+					"frame": {
+						"x": 939,
+						"y": 1195,
+						"w": 82,
+						"h": 72
+					}
+				},
+				{
+					"filename": "particle-flower-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 67
+					},
+					"frame": {
+						"x": 830,
+						"y": 869,
+						"w": 79,
+						"h": 67
+					}
+				},
+				{
+					"filename": "particle-flower-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 73
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 73
+					},
+					"frame": {
+						"x": 830,
+						"y": 940,
+						"w": 73,
+						"h": 73
+					}
+				},
+				{
+					"filename": "particle-flower-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 72,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 72,
+						"h": 72
+					},
+					"frame": {
+						"x": 262,
+						"y": 816,
+						"w": 72,
+						"h": 72
+					}
+				},
+				{
+					"filename": "particle-flower-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 72,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 72,
+						"h": 69
+					},
+					"frame": {
+						"x": 338,
+						"y": 816,
+						"w": 72,
+						"h": 69
+					}
+				},
+				{
 					"filename": "icon.play.full.44.png",
 					"rotated": false,
 					"trimmed": false,
