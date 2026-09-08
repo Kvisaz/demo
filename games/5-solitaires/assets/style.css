@@ -1,0 +1,78 @@
+html,
+body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #123b32;
+}
+body {
+  font-family: Arial, sans-serif;
+  color: #fff4d1;
+}
+#game {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+canvas {
+  display: block;
+  touch-action: none;
+  user-select: none;
+  -webkit-user-select: none;
+}
+#loader {
+  position: fixed;
+  left: 25%;
+  top: 50%;
+  width: 50%;
+  height: 4px;
+  background: #235345;
+}
+#loader-bar {
+  width: calc(var(--progress, 0) * 100%);
+  height: 100%;
+  background: #d5b878;
+}
+.storybook {
+  display: flex;
+}
+.sidebar {
+  width: 220px;
+  flex-shrink: 0;
+  padding: 20px;
+  box-sizing: border-box;
+  background: #0c2a23;
+}
+.sidebar h1 {
+  font-size: 22px;
+}
+.sidebar button {
+  width: 100%;
+  padding: 12px;
+  border: 0;
+  border-radius: 6px;
+  background: #d5b878;
+  color: #123b32;
+  cursor: pointer;
+}
+.storybook #game {
+  flex: 1;
+  min-width: 0;
+}
+@media (max-width: 640px) {
+  .storybook {
+    flex-direction: column;
+  }
+  .sidebar {
+    width: 100%;
+    padding: 8px;
+  }
+  .sidebar h1 {
+    margin: 4px 0;
+    font-size: 18px;
+  }
+  .storybook #game {
+    min-height: 0;
+  }
+}

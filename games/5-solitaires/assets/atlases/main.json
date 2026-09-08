@@ -1,0 +1,523 @@
+{
+	"textures": [
+		{
+			"image": "main.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1140,
+				"h": 1140
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "hero-02.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 660,
+						"h": 660
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 660,
+						"h": 660
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 660,
+						"h": 660
+					}
+				},
+				{
+					"filename": "dialog-no-moves.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 340,
+						"h": 340
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 340,
+						"h": 340
+					},
+					"frame": {
+						"x": 666,
+						"y": 2,
+						"w": 340,
+						"h": 340
+					}
+				},
+				{
+					"filename": "dialog-restart.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 340,
+						"h": 340
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 340,
+						"h": 340
+					},
+					"frame": {
+						"x": 666,
+						"y": 346,
+						"w": 340,
+						"h": 340
+					}
+				},
+				{
+					"filename": "dialog-win.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 340,
+						"h": 340
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 340,
+						"h": 340
+					},
+					"frame": {
+						"x": 2,
+						"y": 666,
+						"w": 340,
+						"h": 340
+					}
+				},
+				{
+					"filename": "toggle-off.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 256,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 256,
+						"h": 128
+					},
+					"frame": {
+						"x": 346,
+						"y": 666,
+						"w": 256,
+						"h": 128
+					}
+				},
+				{
+					"filename": "toggle-on.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 256,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 256,
+						"h": 128
+					},
+					"frame": {
+						"x": 346,
+						"y": 798,
+						"w": 256,
+						"h": 128
+					}
+				},
+				{
+					"filename": "card-back.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 154,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 154,
+						"h": 210
+					},
+					"frame": {
+						"x": 606,
+						"y": 690,
+						"w": 154,
+						"h": 210
+					}
+				},
+				{
+					"filename": "card-face.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 154,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 154,
+						"h": 210
+					},
+					"frame": {
+						"x": 764,
+						"y": 690,
+						"w": 154,
+						"h": 210
+					}
+				},
+				{
+					"filename": "button-default.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1010,
+						"y": 2,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "button-primary.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1010,
+						"y": 134,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "button-secondary.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1010,
+						"y": 266,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "close-button.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1010,
+						"y": 398,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "icon-close.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1010,
+						"y": 530,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "icon-hint.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1010,
+						"y": 662,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "icon-home.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 922,
+						"y": 794,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "icon-new-game.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 2,
+						"y": 1010,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "icon-settings.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 134,
+						"y": 1010,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "icon-undo.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 266,
+						"y": 1010,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "overlay.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 398,
+						"y": 930,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "window-background.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 530,
+						"y": 930,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "suit-club.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 60,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 65
+					},
+					"frame": {
+						"x": 398,
+						"y": 1062,
+						"w": 60,
+						"h": 65
+					}
+				},
+				{
+					"filename": "suit-diamond.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 60,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 65
+					},
+					"frame": {
+						"x": 462,
+						"y": 1062,
+						"w": 60,
+						"h": 65
+					}
+				},
+				{
+					"filename": "suit-heart.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 60,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 65
+					},
+					"frame": {
+						"x": 526,
+						"y": 1062,
+						"w": 60,
+						"h": 65
+					}
+				},
+				{
+					"filename": "suit-spade.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 60,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 65
+					},
+					"frame": {
+						"x": 590,
+						"y": 1062,
+						"w": 60,
+						"h": 65
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://github.com/odrick/free-tex-packer-core",
+		"version": "0.3.5"
+	}
+}
