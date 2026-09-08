@@ -22,17 +22,49 @@ canvas {
   -webkit-user-select: none;
 }
 #loader {
+  --progress: 0;
   position: fixed;
-  left: 25%;
+  z-index: 1001;
+  left: 50%;
   top: 50%;
-  width: 50%;
-  height: 4px;
-  background: #235345;
+  transform: translate(-50%, -50%);
+  width: min(518px, calc(100vw - 80px));
+  height: 28px;
+  border: 2px solid #d5b878;
+  border-radius: 18px;
+  background: #0c2a23;
+  pointer-events: none;
+}
+#loader::before {
+  content: "";
+  position: absolute;
+  left: calc(var(--progress) * 100%);
+  bottom: calc(100% + 12px);
+  width: 60px;
+  height: 65px;
+  background: url("./loader-heart.png") center / contain no-repeat;
+  transform: translateX(-50%);
+  transform-origin: center bottom;
+  animation: loader-rock 2s ease-in-out infinite;
 }
 #loader-bar {
   width: calc(var(--progress, 0) * 100%);
   height: 100%;
-  background: #d5b878;
+  border-radius: inherit;
+  background: linear-gradient(180deg, #f4ebd5, #d5b878);
+}
+@keyframes loader-rock {
+  0%, 100% {
+    transform: translateX(-50%) rotate(-8deg);
+  }
+  50% {
+    transform: translateX(-50%) rotate(8deg);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  #loader::before {
+    animation: none;
+  }
 }
 .storybook {
   display: flex;
