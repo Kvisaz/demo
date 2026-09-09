@@ -11,6 +11,7 @@ body {
   color: #fff4d1;
 }
 #game {
+  position: relative;
   width: 100%;
   height: 100%;
   overflow: hidden;
@@ -70,6 +71,7 @@ canvas {
   display: flex;
 }
 .sidebar {
+  overflow-y: auto;
   width: 220px;
   flex-shrink: 0;
   padding: 20px;
@@ -80,6 +82,7 @@ canvas {
   font-size: 22px;
 }
 .sidebar button {
+  margin-bottom: 8px;
   width: 100%;
   padding: 12px;
   border: 0;
@@ -87,6 +90,10 @@ canvas {
   background: #d5b878;
   color: #123b32;
   cursor: pointer;
+}
+.sidebar button[aria-current="true"] {
+  background: #f4ebd5;
+  outline: 2px solid #b9a983;
 }
 .storybook #game {
   flex: 1;
@@ -98,6 +105,7 @@ canvas {
   }
   .sidebar {
     width: 100%;
+    max-height: 30%;
     padding: 8px;
   }
   .sidebar h1 {
