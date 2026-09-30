@@ -724,6 +724,27 @@
 					}
 				},
 				{
+					"filename": "icon_magic_card.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 109,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 128
+					},
+					"frame": {
+						"x": 1141,
+						"y": 145,
+						"w": 109,
+						"h": 128
+					}
+				},
+				{
 					"filename": "overlay.png",
 					"rotated": false,
 					"trimmed": false,
