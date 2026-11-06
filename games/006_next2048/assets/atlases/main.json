@@ -1,0 +1,922 @@
+{
+	"textures": [
+		{
+			"image": "main.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1286,
+				"h": 1272
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "frame-crown.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 407,
+						"h": 233
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 407,
+						"h": 233
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 407,
+						"h": 233
+					}
+				},
+				{
+					"filename": "ui-info-frame-big.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 395,
+						"h": 363
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 395,
+						"h": 363
+					},
+					"frame": {
+						"x": 2,
+						"y": 239,
+						"w": 395,
+						"h": 363
+					}
+				},
+				{
+					"filename": "frame-diamond.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 386,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 386,
+						"h": 220
+					},
+					"frame": {
+						"x": 413,
+						"y": 2,
+						"w": 386,
+						"h": 220
+					}
+				},
+				{
+					"filename": "frame_03.nine.90.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 359,
+						"h": 275
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 359,
+						"h": 275
+					},
+					"frame": {
+						"x": 413,
+						"y": 226,
+						"w": 359,
+						"h": 275
+					}
+				},
+				{
+					"filename": "button.primary.nine.20.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 300,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 64
+					},
+					"frame": {
+						"x": 401,
+						"y": 505,
+						"w": 300,
+						"h": 64
+					}
+				},
+				{
+					"filename": "button.secondary.nine.20.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 300,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 64
+					},
+					"frame": {
+						"x": 2,
+						"y": 606,
+						"w": 300,
+						"h": 64
+					}
+				},
+				{
+					"filename": "board_view_bg.nine.32.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 256,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 256,
+						"h": 256
+					},
+					"frame": {
+						"x": 2,
+						"y": 674,
+						"w": 256,
+						"h": 256
+					}
+				},
+				{
+					"filename": "frame-03.nine.50.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 180,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 180,
+						"h": 138
+					},
+					"frame": {
+						"x": 262,
+						"y": 674,
+						"w": 180,
+						"h": 138
+					}
+				},
+				{
+					"filename": "tile_16_cinderella_apron.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 173
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 173
+					},
+					"frame": {
+						"x": 446,
+						"y": 573,
+						"w": 162,
+						"h": 173
+					}
+				},
+				{
+					"filename": "tile_8_floor_rag_brush.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 163,
+						"h": 173
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 163,
+						"h": 173
+					},
+					"frame": {
+						"x": 446,
+						"y": 750,
+						"w": 163,
+						"h": 173
+					}
+				},
+				{
+					"filename": "tile_2_old_broom.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 161,
+						"h": 172
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 161,
+						"h": 172
+					},
+					"frame": {
+						"x": 612,
+						"y": 573,
+						"w": 161,
+						"h": 172
+					}
+				},
+				{
+					"filename": "tile_4_rusty_bucket.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 172
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 172
+					},
+					"frame": {
+						"x": 613,
+						"y": 749,
+						"w": 162,
+						"h": 172
+					}
+				},
+				{
+					"filename": "tile_dimmed.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 161,
+						"h": 172
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 161,
+						"h": 172
+					},
+					"frame": {
+						"x": 803,
+						"y": 2,
+						"w": 161,
+						"h": 172
+					}
+				},
+				{
+					"filename": "tile_free.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 159,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 159,
+						"h": 170
+					},
+					"frame": {
+						"x": 803,
+						"y": 178,
+						"w": 159,
+						"h": 170
+					}
+				},
+				{
+					"filename": "tile_131072_crown.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 161,
+						"h": 169
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 161,
+						"h": 169
+					},
+					"frame": {
+						"x": 779,
+						"y": 352,
+						"w": 161,
+						"h": 169
+					}
+				},
+				{
+					"filename": "tile_128_pumpkin.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 168
+					},
+					"frame": {
+						"x": 779,
+						"y": 525,
+						"w": 162,
+						"h": 168
+					}
+				},
+				{
+					"filename": "tile_16384_castle.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 168
+					},
+					"frame": {
+						"x": 779,
+						"y": 697,
+						"w": 162,
+						"h": 168
+					}
+				},
+				{
+					"filename": "tile_2048_glass_slipper.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 168
+					},
+					"frame": {
+						"x": 2,
+						"y": 934,
+						"w": 162,
+						"h": 168
+					}
+				},
+				{
+					"filename": "tile_256_magic_wand_sparkles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 168
+					},
+					"frame": {
+						"x": 168,
+						"y": 934,
+						"w": 162,
+						"h": 168
+					}
+				},
+				{
+					"filename": "tile_32768_prince.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 168
+					},
+					"frame": {
+						"x": 334,
+						"y": 927,
+						"w": 162,
+						"h": 168
+					}
+				},
+				{
+					"filename": "tile_32_simple_blue_dress.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 168
+					},
+					"frame": {
+						"x": 500,
+						"y": 927,
+						"w": 160,
+						"h": 168
+					}
+				},
+				{
+					"filename": "tile_4096_clock.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 168
+					},
+					"frame": {
+						"x": 664,
+						"y": 925,
+						"w": 162,
+						"h": 168
+					}
+				},
+				{
+					"filename": "tile_512_dress_violet.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 168
+					},
+					"frame": {
+						"x": 968,
+						"y": 2,
+						"w": 160,
+						"h": 168
+					}
+				},
+				{
+					"filename": "tile_64_helper_mouse_thread_spool.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 168
+					},
+					"frame": {
+						"x": 966,
+						"y": 178,
+						"w": 162,
+						"h": 168
+					}
+				},
+				{
+					"filename": "tile_65536_colybel.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 168
+					},
+					"frame": {
+						"x": 966,
+						"y": 350,
+						"w": 162,
+						"h": 168
+					}
+				},
+				{
+					"filename": "tile_8192_diadem.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 168
+					},
+					"frame": {
+						"x": 945,
+						"y": 522,
+						"w": 160,
+						"h": 168
+					}
+				},
+				{
+					"filename": "tile_1024_caret_violet.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 167
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 167
+					},
+					"frame": {
+						"x": 945,
+						"y": 694,
+						"w": 162,
+						"h": 167
+					}
+				},
+				{
+					"filename": "effect-button-glow.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 164,
+						"h": 163
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 164,
+						"h": 163
+					},
+					"frame": {
+						"x": 945,
+						"y": 865,
+						"w": 164,
+						"h": 163
+					}
+				},
+				{
+					"filename": "icon-hammer.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 164
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 164
+					},
+					"frame": {
+						"x": 2,
+						"y": 1106,
+						"w": 140,
+						"h": 164
+					}
+				},
+				{
+					"filename": "icon_wand.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 164
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 119,
+						"h": 164
+					},
+					"frame": {
+						"x": 146,
+						"y": 1106,
+						"w": 119,
+						"h": 164
+					}
+				},
+				{
+					"filename": "button-careta.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 161
+					},
+					"frame": {
+						"x": 269,
+						"y": 1106,
+						"w": 140,
+						"h": 161
+					}
+				},
+				{
+					"filename": "button-undo.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 161
+					},
+					"frame": {
+						"x": 413,
+						"y": 1099,
+						"w": 140,
+						"h": 161
+					}
+				},
+				{
+					"filename": "button-hammer.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 160
+					},
+					"frame": {
+						"x": 557,
+						"y": 1099,
+						"w": 140,
+						"h": 160
+					}
+				},
+				{
+					"filename": "button-settings-slider.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 160
+					},
+					"frame": {
+						"x": 701,
+						"y": 1097,
+						"w": 140,
+						"h": 160
+					}
+				},
+				{
+					"filename": "button-shop-bag.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 159
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 159
+					},
+					"frame": {
+						"x": 845,
+						"y": 1032,
+						"w": 140,
+						"h": 159
+					}
+				},
+				{
+					"filename": "ui-info-frame.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 152,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 152,
+						"h": 140
+					},
+					"frame": {
+						"x": 1132,
+						"y": 2,
+						"w": 152,
+						"h": 140
+					}
+				},
+				{
+					"filename": "frame-small.nine.25.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 69
+					},
+					"frame": {
+						"x": 845,
+						"y": 1195,
+						"w": 90,
+						"h": 69
+					}
+				},
+				{
+					"filename": "particle-flower-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 82,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 72
+					},
+					"frame": {
+						"x": 939,
+						"y": 1195,
+						"w": 82,
+						"h": 72
+					}
+				},
+				{
+					"filename": "particle-flower-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 67
+					},
+					"frame": {
+						"x": 830,
+						"y": 869,
+						"w": 79,
+						"h": 67
+					}
+				},
+				{
+					"filename": "particle-flower-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 73
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 73
+					},
+					"frame": {
+						"x": 830,
+						"y": 940,
+						"w": 73,
+						"h": 73
+					}
+				},
+				{
+					"filename": "particle-flower-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 72,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 72,
+						"h": 72
+					},
+					"frame": {
+						"x": 262,
+						"y": 816,
+						"w": 72,
+						"h": 72
+					}
+				},
+				{
+					"filename": "particle-flower-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 72,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 72,
+						"h": 69
+					},
+					"frame": {
+						"x": 338,
+						"y": 816,
+						"w": 72,
+						"h": 69
+					}
+				},
+				{
+					"filename": "icon.play.full.44.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 44,
+						"h": 44
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 44
+					},
+					"frame": {
+						"x": 779,
+						"y": 869,
+						"w": 44,
+						"h": 44
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://github.com/odrick/free-tex-packer-core",
+		"version": "0.3.5"
+	}
+}
