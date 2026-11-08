@@ -22,8 +22,15 @@ canvas {
   user-select: none;
   -webkit-user-select: none;
 }
+/* Стартовая имитация прогресса: пока грузится бандл, реального прогресса ещё нет. */
+@property --boot-progress {
+  syntax: "<number>";
+  inherits: true;
+  initial-value: 0;
+}
 #loader {
   --progress: 0;
+  --boot-progress: 0;
   position: fixed;
   z-index: 1001;
   left: 50%;
@@ -35,11 +42,13 @@ canvas {
   border-radius: 18px;
   background: #0c2a23;
   pointer-events: none;
+  /* до 35% за 30 секунд; дальше держится, пока реальный прогресс не станет больше */
+  animation: loader-boot 30s linear forwards;
 }
 #loader::before {
   content: "";
   position: absolute;
-  left: calc(var(--progress) * 100%);
+  left: calc(max(var(--progress, 0), var(--boot-progress, 0)) * 100%);
   bottom: calc(100% + 12px);
   width: 60px;
   height: 65px;
@@ -49,10 +58,29 @@ canvas {
   animation: loader-rock 2s ease-in-out infinite;
 }
 #loader-bar {
-  width: calc(var(--progress, 0) * 100%);
+  /* обрезаем заливку по внутреннему радиусу рамки, иначе её угол вылезает на малых процентах */
+  width: 100%;
+  height: 100%;
+  border-radius: calc(18px - 2px);
+  overflow: hidden;
+}
+/* реальный прогресс Phaser перебивает имитацию, как только станет больше неё */
+#loader-bar::before {
+  content: "";
+  display: block;
+  width: calc(max(var(--progress, 0), var(--boot-progress, 0)) * 100%);
   height: 100%;
   border-radius: inherit;
   background: linear-gradient(180deg, #f4ebd5, #d5b878);
+  transition: width 0.2s linear;
+}
+@keyframes loader-boot {
+  from {
+    --boot-progress: 0;
+  }
+  to {
+    --boot-progress: 0.35;
+  }
 }
 @keyframes loader-rock {
   0%, 100% {
