@@ -38,13 +38,23 @@ canvas {
     z-index: 1000;
 }
 
+/* Стартовая имитация прогресса: пока грузится бандл, реального прогресса ещё нет. */
+@property --boot-progress {
+    syntax: "<number>";
+    inherits: true;
+    initial-value: 0;
+}
+
 #loader {
     --progress: 0;
+    --boot-progress: 0;
     --width: 518px;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    /* до 35% за 30 секунд; дальше держится, пока реальный прогресс не станет больше */
+    animation: loader-boot 30s linear forwards;
 }
 
 #loader-icon {
@@ -54,7 +64,7 @@ canvas {
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    margin-left: calc(-48px + var(--progress) * var(--width));
+    margin-left: calc(-48px + max(var(--progress, 0), var(--boot-progress, 0)) * var(--width));
 
     /* Плитка покачивается, пока едет по полосе */
     animation: rocking 3s ease-in-out infinite;
@@ -73,8 +83,17 @@ canvas {
 
 #loader-bar {
     background: linear-gradient(180deg, #fbc6a5, #f4a994);
-    width: calc(var(--progress) * 100%);
+    width: calc(max(var(--progress, 0), var(--boot-progress, 0)) * 100%);
     height: 100%;
+}
+
+@keyframes loader-boot {
+    from {
+        --boot-progress: 0;
+    }
+    to {
+        --boot-progress: 0.35;
+    }
 }
 
 
