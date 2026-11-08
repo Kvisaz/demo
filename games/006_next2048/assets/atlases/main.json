@@ -1,0 +1,250 @@
+{
+	"textures": [
+		{
+			"image": "main.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1002,
+				"h": 680
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg_swatch_classic.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 330,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 166
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 330,
+						"h": 166
+					}
+				},
+				{
+					"filename": "bg_swatch_glow.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 330,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 166
+					},
+					"frame": {
+						"x": 2,
+						"y": 172,
+						"w": 330,
+						"h": 166
+					}
+				},
+				{
+					"filename": "bg_swatch_grid.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 330,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 166
+					},
+					"frame": {
+						"x": 336,
+						"y": 2,
+						"w": 330,
+						"h": 166
+					}
+				},
+				{
+					"filename": "bg_swatch_mint.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 330,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 166
+					},
+					"frame": {
+						"x": 336,
+						"y": 172,
+						"w": 330,
+						"h": 166
+					}
+				},
+				{
+					"filename": "bg_swatch_peach.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 330,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 166
+					},
+					"frame": {
+						"x": 2,
+						"y": 342,
+						"w": 330,
+						"h": 166
+					}
+				},
+				{
+					"filename": "bg_swatch_selected.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 330,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 166
+					},
+					"frame": {
+						"x": 336,
+						"y": 342,
+						"w": 330,
+						"h": 166
+					}
+				},
+				{
+					"filename": "bg_swatch_sparkles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 330,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 166
+					},
+					"frame": {
+						"x": 2,
+						"y": 512,
+						"w": 330,
+						"h": 166
+					}
+				},
+				{
+					"filename": "bg_swatch_sprigs.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 330,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 166
+					},
+					"frame": {
+						"x": 336,
+						"y": 512,
+						"w": 330,
+						"h": 166
+					}
+				},
+				{
+					"filename": "bg_swatch_twinkles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 330,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 166
+					},
+					"frame": {
+						"x": 670,
+						"y": 2,
+						"w": 330,
+						"h": 166
+					}
+				},
+				{
+					"filename": "ui_close.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 88,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 88,
+						"h": 88
+					},
+					"frame": {
+						"x": 670,
+						"y": 172,
+						"w": 88,
+						"h": 88
+					}
+				},
+				{
+					"filename": "bg_swatch_check.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 64
+					},
+					"frame": {
+						"x": 762,
+						"y": 172,
+						"w": 64,
+						"h": 64
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://github.com/odrick/free-tex-packer-core",
+		"version": "0.3.5"
+	}
+}
