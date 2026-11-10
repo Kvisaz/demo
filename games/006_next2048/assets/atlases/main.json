@@ -199,7 +199,7 @@
 					}
 				},
 				{
-					"filename": "ui_close.png",
+					"filename": "ui_back.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -220,6 +220,27 @@
 					}
 				},
 				{
+					"filename": "ui_close.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 88,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 88,
+						"h": 88
+					},
+					"frame": {
+						"x": 762,
+						"y": 172,
+						"w": 88,
+						"h": 88
+					}
+				},
+				{
 					"filename": "bg_swatch_check.png",
 					"rotated": false,
 					"trimmed": false,
@@ -234,7 +255,7 @@
 						"h": 64
 					},
 					"frame": {
-						"x": 762,
+						"x": 854,
 						"y": 172,
 						"w": 64,
 						"h": 64
